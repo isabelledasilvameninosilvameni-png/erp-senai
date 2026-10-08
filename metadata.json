@@ -1,0 +1,6 @@
+{
+  "name": "Mini ERP Industrial - Planejamento & Produção",
+  "description": "Sistema de gestão e planejamento de produção (PCP) para pequenas empresas com fichas técnicas, ordens de produção, controle de capacidade e relatórios para impressão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
